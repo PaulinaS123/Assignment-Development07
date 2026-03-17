@@ -1,64 +1,65 @@
 # Assignment-Development07
 
-Total Hours:
+### Total Hours: 3 hours
 
-Total Hours: 3 hours
+### Task Breakdown:
 
-Task Breakdown:
+- Reviewed assigned issue and Figma design — 0.5 hours
 
-Reviewed assigned issue and Figma design — 0.5 hours
+- Implemented AlumniSection component — 1 hour
 
-Implemented AlumniSection component — 1 hour
+- Created AlumniCard component and routing links — 0.5 hours
 
-Created AlumniCard component and routing links — 0.5 hours
+- Created branch, push, and pull request — 0.5 hours
 
-Created branch, push, and pull request — 0.5 hours
+- Tested UI and fixed layout issues — 0.5 hours
 
-Tested UI and fixed layout issues — 0.5 hours
-
-Assigned Issue(s) Update
+- Assigned Issue(s) Update
 
 Link(s) to Issue(s):
 https://github.com/SeattleColleges/NSC-Dev-Expo-Site/issues/15
 
-Progress Summary:
+### Progress Summary:
 - Worked on the Alumni Section feature for the Student page.
 - Recreated the layout based on the Figma design, added modular card components, and implemented navigation links for "Apply Now" and "See All".
 - Created a branch, committed changes, and opened a pull request.
 
-Key Learnings:
+### Key Learnings:
 Learned how to follow the practicum GitHub workflow including branching, linking issues to pull requests, and using Expo Router for navigation.
 Also improved understanding of modular components in React Native.
 
-Additional Information:
+### Additional Information:
 I was unable to assign the issue to myself due to repository permissions, but the issue is linked to my pull request.
 
 Branch Link(s):
 
 https://github.com/PaulinaS123/NSC-Dev-Expo-Site/tree/feature/15-alumni-section
 
-Draft Pull Request(s) and Pull Request(s) Update
+## Pull Request Review
 
-Link(s) to Pull Request(s):
+PR 1 Link:
+https://github.com/SeattleColleges/NSC-Dev-Expo-Site/pull/76
 
-https://github.com/SeattleColleges/NSC-Dev-Expo-Site/pull/77
+Summary:
+- Reviewed the pull request to verify that the changes follow the Figma design and project structure.
+- Tested the layout locally to confirm that the UI renders correctly and that the components are modular.
+- Checked that the code follows the expected folder structure and naming conventions used in the project.
 
-Progress Summary:
-- Created the Alumni section UI based on the Figma design.
-- Added modular AlumniCard component.
-- Added navigation links using Expo Router.
-- Ensured layout and spacing matched the design.
+Learnings:
+- Learned how to review pull requests in GitHub and how to check another developer’s branch before approving changes.
+- Also improved understanding of how modular components are used in the project and how UI updates should match the design specifications.
 
-Key Learnings:
-Learned how to structure components for reuse and how to properly connect issues, branches, and pull requests in GitHub workflow.
+Pull Request Review
 
-Additional Information:
-Pull request is awaiting review and merge approval.
+PR 2 Link:
+https://github.com/SeattleColleges/NSC-Dev-Expo-Site/pull/44
 
-Wiki Documentation Check & Update
+Summary:
+- Reviewed the pull request to check that the changes work correctly and follow the project structure.
+- Tested the branch locally to confirm that the updated screen behavior works as expected and does not break existing components.
+- Verified that the code follows the repository conventions and that the changes integrate correctly with the current layout.
 
-Wiki Check:
-My changes did not affect existing documentation.
+Learnings:
+- Learned how to review another developer’s pull request by checking functionality, layout behavior, and code organization.
+- Also improved my understanding of how different components interact in the project and how to test a branch before approving changes.
 
-Updates Made:
-No wiki updates were required this week.
